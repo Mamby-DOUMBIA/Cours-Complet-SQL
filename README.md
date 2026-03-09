@@ -152,7 +152,8 @@ sql-mastery/
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/votre-username/sql-mastery.git
+git clone https://github.com/Mamby-DOUMBIA/Cours-Complet-SQL
+.git
 cd sql-mastery
 ```
 
@@ -329,6 +330,6 @@ Les contributions sont les bienvenues ! Consultez [CONTRIBUTING.md](CONTRIBUTING
 
 **⭐ Si ce repo vous a été utile, n'oubliez pas de lui mettre une étoile !**
 
-Made with ❤️ pour la communauté SQL francophone
+Made by Mamby DOUMBIA with ❤️ pour la communauté SQL francophone
 
 </div>
